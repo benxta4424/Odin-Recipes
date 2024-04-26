@@ -1,0 +1,73 @@
+.titlu 
+{
+    text-align: center;
+    color: blue;
+    line-height: 40px;
+    word-spacing: 3px;
+}
+
+.titlu.principal
+{
+    font-size: 60px;
+    text-shadow: 10px;
+    text-decoration: underline;
+}
+.titlu.secundar
+{
+    text-decoration: wavy;
+
+}
+
+#micapoezie
+{
+    margin-top: 70px;
+    text-align: center;
+    word-spacing: 5px;
+    text-decoration: solid;
+    font-style: italic;
+    font-size: 20px;
+    line-height: 30px;
+}
+#micapoezie .buton
+{
+    background-color: brown;
+    color:yellow;
+}
+
+
+.poza.doi
+{
+    height: 300px;
+    width: auto;
+}
+
+.poza.trei
+{
+    height: 300px;
+    width: 350px;
+}
+
+.poza
+{
+    margin-top: 130px;
+}
+
+.titlul3
+{
+    margin-top: 150px;
+    font-size: 100px;
+    text-align: center;
+    text-decoration: aquamarine;
+    font: bold;
+    margin-bottom: 100px;
+}
+
+.aldoilea
+{
+    background-color: blue;
+    color: aqua;
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+    height: 30px;
+}
