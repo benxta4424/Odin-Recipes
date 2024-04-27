@@ -1,3 +1,10 @@
+*
+{
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
 .titlu 
 {
     text-align: center;
@@ -15,23 +22,33 @@
 .titlu.secundar
 {
     text-decoration: wavy;
+    margin-bottom: 100px;
 
 }
 
 #micapoezie
 {
-    margin-top: 70px;
     text-align: center;
     word-spacing: 5px;
-    text-decoration: solid;
     font-style: italic;
     font-size: 20px;
     line-height: 30px;
+    border:2px solid black;
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    width: 400px;
+    margin-left: 450px;
+}
+#micapoezie .strofa-2 , .strofa3, .strofa4
+{
+    background-color: black;
 }
 #micapoezie .buton
 {
     background-color: brown;
     color:yellow;
+    padding: 5px;
 }
 
 
@@ -49,7 +66,7 @@
 
 .poza
 {
-    margin-top: 130px;
+    margin-top: 80px;
 }
 
 .titlul3
@@ -62,7 +79,7 @@
     margin-bottom: 100px;
 }
 
-.aldoilea
+.pomana .aldoilea
 {
     background-color: blue;
     color: aqua;
@@ -70,4 +87,6 @@
     margin: 0 auto;
     width: 300px;
     height: 30px;
+    display: block;
+    margin-bottom: 60px;
 }
